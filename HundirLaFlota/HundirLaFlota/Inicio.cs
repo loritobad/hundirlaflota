@@ -11,7 +11,7 @@ namespace HundirLaFlota
         static void Main(string[] args)
         {
             Console.WriteLine("kike");
-            Console.WriteLine("pe");
+            Console.WriteLine("perico");
         }
     }
 }
