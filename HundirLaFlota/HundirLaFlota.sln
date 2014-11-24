@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HundirLaFlota", "HundirLaFlota\HundirLaFlota.csproj", "{B7573CD9-ED02-4AF9-8DCC-4C2AFF817661}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{AAB2E2A8-ABC4-4A75-89D0-030C1D314428}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B7573CD9-ED02-4AF9-8DCC-4C2AFF817661}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7573CD9-ED02-4AF9-8DCC-4C2AFF817661}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7573CD9-ED02-4AF9-8DCC-4C2AFF817661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB2E2A8-ABC4-4A75-89D0-030C1D314428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB2E2A8-ABC4-4A75-89D0-030C1D314428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB2E2A8-ABC4-4A75-89D0-030C1D314428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB2E2A8-ABC4-4A75-89D0-030C1D314428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

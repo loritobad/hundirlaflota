@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HundirLaFlota
 {
-    class Program
+    class Inicio
     {
         static void Main(string[] args)
         {
