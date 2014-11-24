@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Logica;
 
 namespace HundirLaFlota
 {
@@ -10,8 +11,8 @@ namespace HundirLaFlota
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("kike");
-            Console.WriteLine("perico");
+           Console.WriteLine( Dibujar.Menu());
+           Console.ReadKey();
         }
     }
 }
