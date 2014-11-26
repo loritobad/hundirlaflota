@@ -11,7 +11,26 @@ namespace HundirLaFlota
     {
         static void Main(string[] args)
         {
-           Console.WriteLine( Dibujar.Menu());
+
+            switch ((char)Dibujar.Menu()) //redirecciono segun la opcion elegida
+            {
+                case 'A': //Colocar barcos manualmente
+                    Console.WriteLine(" es a");
+                    break;
+
+                case 'B': //comenzar la partida
+                   
+                    // creo los barcos
+
+                    Barco porta = new Barco();
+                    
+                  
+                    break;
+
+                
+            }
+          
+
            Console.ReadKey();
         }
     }
